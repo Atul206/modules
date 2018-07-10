@@ -35,7 +35,7 @@ const defaultOptions = {
   foregroundColor: '#000000',
   textColorOnForeground: '#ffffff',
   enableReset: false,
-  botConvoTitle: 'Botpress Webchat'
+  botConvoTitle: 'Rivigo Pilot'
 }
 
 export default class Web extends React.Component {
